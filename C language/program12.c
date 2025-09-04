@@ -9,5 +9,8 @@ int main(){
         sum = sum+i;
     }
     printf("%d",sum);
+
+
+    printf("\n\nAman Kumar 525110031");
     return 0;
 }

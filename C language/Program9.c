@@ -10,4 +10,6 @@ void main(){
     else{
         printf("ODD Num");
     }
+
+    printf("\nAman Kumar 525110031");
 }

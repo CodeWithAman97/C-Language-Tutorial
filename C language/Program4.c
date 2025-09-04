@@ -10,4 +10,6 @@ void main(){
     float celsius_result = ((float)5/9)*(farenheit_input-32);
     printf("Farenheit to celsius of %f is %f" , farenheit_input , celsius_result);
 
+    printf("\n\nAman Kumar 525110031");
+
 }

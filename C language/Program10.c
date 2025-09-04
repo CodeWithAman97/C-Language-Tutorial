@@ -15,5 +15,7 @@ int main(){
         printf("%d is greatest" ,c );
     }
 
+    printf("\nAman Kumar 525110031");
+
     return 0;
 }

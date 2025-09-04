@@ -11,5 +11,7 @@ int main (){
         } 
     }
     printf("program terminated");
+
+    printf("\n\nAman Kumar 525110031");
     return 0;
 }
