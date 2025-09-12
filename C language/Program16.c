@@ -13,6 +13,8 @@ int main(){
         printf("\n");
     }
 
+    printf("\nAman Kumar[525110031]");
+
 
     return 0;
 }

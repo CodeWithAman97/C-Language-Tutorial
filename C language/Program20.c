@@ -2,6 +2,7 @@
 int main(){
     //Palindrome Number
     int n;
+    int copyNum = n;
     int reverseNum=0;
 
     printf("Enter a num : ");
@@ -13,8 +14,9 @@ int main(){
         n = n/10;
 
     }
+    n=copyNum;
     printf("Reverse Number : %d\n", reverseNum);
-    if(reverseNum == n){
+    if(reverseNum == copyNum){
         printf("Palindrome");
     }
     else{

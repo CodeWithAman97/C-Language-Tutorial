@@ -12,5 +12,8 @@ int main(){
         count++;
     }
     printf("Number of digits in the number is %d" ,count );
+
+
+    printf("\nAman Kumar[525110031]");
     return 0;
 }
